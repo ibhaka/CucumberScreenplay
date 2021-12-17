@@ -16,7 +16,7 @@ Feature: List votes
     Then I have numbers plus one votes for this "<sub_id>" and image_id should "<image_id>"
     Examples:
       |sub_id      |image_id  |
-      |my-user-1234|xx|
+      |my-user-1234|cityslicka|
 
 
 
